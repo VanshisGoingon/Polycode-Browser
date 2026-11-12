@@ -1,0 +1,6 @@
+{
+  "name": "PolyCode By Vansh",
+  "description": "Developer web browser & cloud IDE with multi-language code runners (HTML, CSS, JS, React, Node.js, Python, Java), real-time syntax highlighting, collaborative workspace with live peer cursors, line comments, AI assistant, and an offline Flappy Bird game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
